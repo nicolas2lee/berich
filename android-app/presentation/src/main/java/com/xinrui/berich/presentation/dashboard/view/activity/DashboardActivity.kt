@@ -1,10 +1,10 @@
-package com.xinrui.berich.dashboard
+package com.xinrui.berich.presentation.dashboard.view.activity
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.xinrui.berich.R
-import com.xinrui.berich.dashboard.view.fortune.fragment.DashboardFragment
+import com.xinrui.berich.presentation.dashboard.fortune.view.fragment.DashboardFragment
 
 class DashboardActivity : AppCompatActivity() {
 

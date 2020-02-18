@@ -1,0 +1,3 @@
+[submodule "berich-devops"]
+	path = berich-devops
+	url = https://github.com/nicolas2lee/berich-devops

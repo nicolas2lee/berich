@@ -1,4 +1,4 @@
-package com.xinrui.berich.dashboard.view.fortune.fragment
+package com.xinrui.berich.presentation.dashboard.fortune.view
 
 import androidx.lifecycle.ViewModel
 
